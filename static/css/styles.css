@@ -256,6 +256,7 @@ section.pink {
 .card {
   border-radius: 6px;
   border: none;
+  background-color: #cadfdf;
 }
 
 #timeline {
@@ -438,3 +439,11 @@ section.pink {
   transition: bottom 300ms cubic-bezier(0.23, 1, 0.32, 1), transform 350ms 350ms cubic-bezier(0.23, 1, 0.32, 1), -webkit-transform 350ms 350ms cubic-bezier(0.23, 1, 0.32, 1);
 }
 /*# sourceMappingURL=styles.css.map */
+
+.icon {
+  border-radius: 22.5%;
+  background: #FFFFFF;
+  width: 160px;
+  height: 160px;
+  margin: auto;
+}
